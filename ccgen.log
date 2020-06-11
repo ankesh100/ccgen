@@ -1,0 +1,1052 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 09:53:06 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55f6d0c219a0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6890)
+spawned uWSGI worker 1 (pid: 6892, cores: 1)
+spawned uWSGI worker 2 (pid: 6893, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 09:53:35 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5559e9e2f9a0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6897)
+spawned uWSGI worker 1 (pid: 6899, cores: 1)
+spawned uWSGI worker 2 (pid: 6900, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 09:54:15 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x557b1627b9f0
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: command ***
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6961)
+spawned uWSGI worker 1 (pid: 6963, cores: 1)
+worker 1 buried after 0 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 09:54:48 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x564a933e9f60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6975)
+spawned uWSGI worker 1 (pid: 6993, cores: 1)
+spawned uWSGI worker 2 (pid: 6994, cores: 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 6994|app: -1|req: -1/1] 47.29.44.13 () {44 vars in 788 bytes} [Fri Aug 30 09:55:20 2019] GET /ccgen => generated 21 bytes in 1 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 6994|app: -1|req: -1/2] 47.29.44.13 () {42 vars in 759 bytes} [Fri Aug 30 09:55:25 2019] GET /ccgen/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 09:56:52 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5627a59aff60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5627a59aff60 pid: 7139 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 7139)
+spawned uWSGI worker 1 (pid: 7157, cores: 1)
+spawned uWSGI worker 2 (pid: 7158, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 09:57:14 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5596853029f0
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: command ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5596853029f0 pid: 7203 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 7203)
+spawned uWSGI worker 1 (pid: 7205, cores: 1)
+worker 1 buried after 0 seconds
+goodbye to uWSGI.
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM WARNING: unix socket OpenSource-CCGen.sock changed inode. Skip removal
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 09:57:19 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x560ffb7ebf60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x560ffb7ebf60 pid: 7212 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 7212)
+spawned uWSGI worker 1 (pid: 7230, cores: 1)
+spawned uWSGI worker 2 (pid: 7231, cores: 1)
+[pid: 7231|app: 0|req: 1/1] 47.29.72.57 () {44 vars in 790 bytes} [Fri Aug 30 09:57:38 2019] GET /ccgen/ => generated 232 bytes in 19 msecs (HTTP/1.1 404) 2 headers in 72 bytes (2 switches on core 0)
+[2019-08-30 09:57:40,862] ERROR in app: Exception on /ccgen [GET]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 2311, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1834, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1737, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/_compat.py", line 36, in reraise
+    raise value
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./app.py", line 7, in index
+    return render_template('index.html')
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/flask/templating.py", line 134, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/loaders.py", line 125, in load
+    code = environment.compile(source, name, filename)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/environment.py", line 591, in compile
+    self.handle_exception(exc_info, source_hint=source_hint)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/home/ubuntu/hosted/OpenSource-CCGen/templates/index.html", line 14, in template
+    <section class="title"><img src="{{url_for('static',filename="img/favicon.png"}})"> PersonalCCGen</section>
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/environment.py", line 497, in _parse
+    return Parser(self, source, name, encode_filename(filename)).parse()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 901, in parse
+    result = nodes.Template(self.subparse(), lineno=1)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 875, in subparse
+    add_data(self.parse_tuple(with_condexpr=True))
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 620, in parse_tuple
+    args.append(parse())
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 432, in parse_expression
+    return self.parse_condexpr()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 437, in parse_condexpr
+    expr1 = self.parse_or()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 450, in parse_or
+    left = self.parse_and()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 459, in parse_and
+    left = self.parse_not()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 470, in parse_not
+    return self.parse_compare()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 474, in parse_compare
+    expr = self.parse_math1()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 496, in parse_math1
+    left = self.parse_concat()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 507, in parse_concat
+    args = [self.parse_math2()]
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 517, in parse_math2
+    left = self.parse_pow()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 528, in parse_pow
+    left = self.parse_unary()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 547, in parse_unary
+    node = self.parse_postfix(node)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 676, in parse_postfix
+    node = self.parse_call(node)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 785, in parse_call
+    value = self.parse_expression()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 432, in parse_expression
+    return self.parse_condexpr()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 437, in parse_condexpr
+    expr1 = self.parse_or()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 450, in parse_or
+    left = self.parse_and()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 459, in parse_and
+    left = self.parse_not()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 470, in parse_not
+    return self.parse_compare()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 474, in parse_compare
+    expr = self.parse_math1()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 496, in parse_math1
+    left = self.parse_concat()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 507, in parse_concat
+    args = [self.parse_math2()]
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 517, in parse_math2
+    left = self.parse_pow()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 528, in parse_pow
+    left = self.parse_unary()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 546, in parse_unary
+    node = self.parse_primary()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/parser.py", line 564, in parse_primary
+    next(self.stream)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/lexer.py", line 359, in __next__
+    self.current = next(self._iter)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/lexer.py", line 562, in wrap
+    for lineno, token, value in stream:
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/jinja2/lexer.py", line 690, in tokeniter
+    filename)
+jinja2.exceptions.TemplateSyntaxError: unexpected '}', expected ')'
+[pid: 7230|app: 0|req: 1/2] 47.29.72.57 () {42 vars in 757 bytes} [Fri Aug 30 09:57:40 2019] GET /ccgen => generated 290 bytes in 24 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 09:58:48 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55b488bf5f60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55b488bf5f60 pid: 7344 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 7344)
+spawned uWSGI worker 1 (pid: 7362, cores: 1)
+spawned uWSGI worker 2 (pid: 7363, cores: 1)
+[pid: 7363|app: 0|req: 1/1] 47.29.44.13 () {44 vars in 788 bytes} [Fri Aug 30 09:58:53 2019] GET /ccgen => generated 5697 bytes in 18 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 7362|app: 0|req: 1/2] 47.29.44.13 () {42 vars in 681 bytes} [Fri Aug 30 09:58:54 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 19 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 7363|app: 0|req: 2/3] 47.29.44.13 () {44 vars in 788 bytes} [Fri Aug 30 09:59:22 2019] GET /ccgen => generated 5697 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+[pid: 7363|app: 0|req: 3/4] 47.29.72.57 () {42 vars in 681 bytes} [Fri Aug 30 09:59:24 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 21 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 10:07:59 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55bd22905f60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55bd22905f60 pid: 7813 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 7813)
+spawned uWSGI worker 1 (pid: 7832, cores: 1)
+spawned uWSGI worker 2 (pid: 7833, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 10:08:19 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55ad5fce0f60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55ad5fce0f60 pid: 7909 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 7909)
+spawned uWSGI worker 1 (pid: 7927, cores: 1)
+spawned uWSGI worker 2 (pid: 7928, cores: 1)
+[pid: 7928|app: 0|req: 1/1] 47.29.72.57 () {42 vars in 757 bytes} [Fri Aug 30 10:08:40 2019] GET /ccgen => generated 5697 bytes in 27 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+[pid: 7927|app: 0|req: 1/2] 47.29.44.13 () {42 vars in 681 bytes} [Fri Aug 30 10:08:42 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 15 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 7928|app: 0|req: 2/3] 47.29.44.13 () {42 vars in 782 bytes} [Fri Aug 30 10:11:36 2019] GET /ccgen => generated 5697 bytes in 52 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+[pid: 7927|app: 0|req: 2/4] 47.29.72.57 () {42 vars in 706 bytes} [Fri Aug 30 10:11:38 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 8 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 7927|app: 0|req: 3/5] 47.29.44.13 () {44 vars in 813 bytes} [Fri Aug 30 10:14:10 2019] GET /ccgen => generated 5697 bytes in 230 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+[pid: 7928|app: 0|req: 3/6] 47.29.44.13 () {42 vars in 706 bytes} [Fri Aug 30 10:14:13 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 76 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 10:14:31 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55f7bea22f60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55f7bea22f60 pid: 8426 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8426)
+spawned uWSGI worker 1 (pid: 8444, cores: 1)
+spawned uWSGI worker 2 (pid: 8445, cores: 1)
+[pid: 8445|app: 0|req: 1/1] 47.29.72.57 () {44 vars in 813 bytes} [Fri Aug 30 10:14:36 2019] GET /ccgen => generated 5697 bytes in 22 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+[pid: 8444|app: 0|req: 1/2] 47.29.44.13 () {42 vars in 706 bytes} [Fri Aug 30 10:14:38 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 12 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 30 10:18:02 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1040-aws #42-Ubuntu SMP Fri May 17 13:47:10 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Jan 14 2019, 11:02:34)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x559ca89a9f60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x559ca89a9f60 pid: 8682 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8682)
+spawned uWSGI worker 1 (pid: 8700, cores: 1)
+spawned uWSGI worker 2 (pid: 8701, cores: 1)
+[pid: 8701|app: 0|req: 1/1] 47.29.44.13 () {44 vars in 813 bytes} [Fri Aug 30 10:18:15 2019] GET /ccgen => generated 5697 bytes in 19 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 8700|app: 0|req: 1/2] 47.29.72.57 () {42 vars in 706 bytes} [Fri Aug 30 10:18:18 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 14 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 8701|app: 0|req: 2/3] 47.29.72.57 () {44 vars in 813 bytes} [Fri Aug 30 10:18:26 2019] GET /ccgen => generated 5697 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 8701|app: 0|req: 3/4] 47.29.72.57 () {42 vars in 706 bytes} [Fri Aug 30 10:18:27 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 9 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 8701|app: 0|req: 4/5] 103.66.79.198 () {40 vars in 621 bytes} [Mon Sep  9 05:30:31 2019] GET /ccgen => generated 5697 bytes in 317 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 8700|app: 0|req: 2/6] 103.66.79.198 () {40 vars in 600 bytes} [Mon Sep  9 05:30:33 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 335 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 3 seconds
+worker 2 buried after 3 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Wed Sep 11 12:29:04 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1047-aws #49-Ubuntu SMP Fri Aug 23 09:02:45 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x561f78885f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x561f78885f50 pid: 10900 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 10900)
+spawned uWSGI worker 1 (pid: 10918, cores: 1)
+spawned uWSGI worker 2 (pid: 10919, cores: 1)
+[pid: 10919|app: 0|req: 1/1] 106.51.16.212 () {44 vars in 706 bytes} [Wed Sep 11 12:29:07 2019] GET /ccgen => generated 5697 bytes in 18 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 10918|app: 0|req: 1/2] 106.51.16.212 () {42 vars in 654 bytes} [Wed Sep 11 12:29:10 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 12 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Sep 13 13:27:52 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1048-aws #50-Ubuntu SMP Wed Sep 4 22:03:52 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x556bd8739f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x556bd8739f50 pid: 1833 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1833)
+spawned uWSGI worker 1 (pid: 1859, cores: 1)
+spawned uWSGI worker 2 (pid: 1860, cores: 1)
+[pid: 1860|app: 0|req: 1/1] 106.51.232.199 () {42 vars in 701 bytes} [Fri Sep 13 13:29:01 2019] GET /ccgen => generated 5697 bytes in 83 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 1859|app: 0|req: 1/2] 106.51.232.199 () {42 vars in 680 bytes} [Fri Sep 13 13:29:02 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 114 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 3 seconds
+worker 2 buried after 3 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Oct 14 12:53:30 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1048-aws #50-Ubuntu SMP Wed Sep 4 22:03:52 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55f1765acf50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55f1765acf50 pid: 1673 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1673)
+spawned uWSGI worker 1 (pid: 1704, cores: 1)
+spawned uWSGI worker 2 (pid: 1705, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Oct 22 02:37:02 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1048-aws #50-Ubuntu SMP Wed Sep 4 22:03:52 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x558e0da34f60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x558e0da34f60 pid: 27266 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 27266)
+spawned uWSGI worker 1 (pid: 27358, cores: 1)
+spawned uWSGI worker 2 (pid: 27359, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+Thu Oct 24 06:00:57 2019 - worker 1 (pid: 27358) is taking too much time to die...NO MERCY !!!
+Thu Oct 24 06:00:57 2019 - worker 2 (pid: 27359) is taking too much time to die...NO MERCY !!!
+worker 1 buried after 0 seconds
+worker 2 buried after 0 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Oct 24 06:06:31 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1048-aws #50-Ubuntu SMP Wed Sep 4 22:03:52 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55ec5b8d3f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55ec5b8d3f50 pid: 2134 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2134)
+spawned uWSGI worker 1 (pid: 2158, cores: 1)
+spawned uWSGI worker 2 (pid: 2159, cores: 1)
+[pid: 2159|app: 0|req: 1/1] 157.42.8.130 () {42 vars in 651 bytes} [Thu Oct 24 06:06:37 2019] GET /ccgen => generated 5697 bytes in 38 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 2159|app: 0|req: 2/2] 157.42.8.130 () {40 vars in 599 bytes} [Thu Oct 24 06:06:39 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 23 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Oct 24 07:03:53 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1048-aws #50-Ubuntu SMP Wed Sep 4 22:03:52 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Aug 20 2019, 17:12:48)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5630c012cf50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 4 seconds on interpreter 0x5630c012cf50 pid: 797 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 797)
+spawned uWSGI worker 1 (pid: 1191, cores: 1)
+spawned uWSGI worker 2 (pid: 1192, cores: 1)
+[pid: 1192|app: 0|req: 1/1] 157.42.25.124 () {44 vars in 706 bytes} [Thu Oct 24 07:04:06 2019] GET /ccgen => generated 5697 bytes in 42 msecs (HTTP/1.1 200) 2 headers in 81 bytes (2 switches on core 0)
+[pid: 1191|app: 0|req: 1/2] 157.42.25.124 () {44 vars in 685 bytes} [Thu Oct 24 07:04:08 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 13 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Nov 23 09:39:18 2019] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-1048-aws #50-Ubuntu SMP Wed Sep 4 22:03:52 UTC 2019
+nodename: ip-172-31-32-139
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3841
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.8 (default, Oct  7 2019, 12:59:55)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55dfbc1a5f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 2 seconds on interpreter 0x55dfbc1a5f50 pid: 1061 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1061)
+spawned uWSGI worker 1 (pid: 1183, cores: 1)
+spawned uWSGI worker 2 (pid: 1184, cores: 1)
+[pid: 1184|app: 0|req: 1/1] 103.5.135.109 () {40 vars in 744 bytes} [Thu Dec 12 06:16:06 2019] GET /ccgen => generated 5697 bytes in 599 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 1183|app: 0|req: 1/2] 103.5.135.109 () {40 vars in 668 bytes} [Thu Dec 12 06:16:08 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 113 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 1183|app: 0|req: 2/3] 103.5.135.109 () {42 vars in 722 bytes} [Thu Dec 12 06:22:03 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 1183|app: 0|req: 3/4] 103.5.135.109 () {42 vars in 722 bytes} [Thu Dec 12 14:57:28 2019] GET /ccgen_files/js/small.js => generated 232 bytes in 120 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Apr  5 10:41:54 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-91-generic #92-Ubuntu SMP Fri Feb 28 11:09:48 UTC 2020
+nodename: ankesh.cf
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Nov  7 2019, 10:44:02)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5579122b5910
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: command ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5579122b5910 pid: 13197 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 13197)
+spawned uWSGI worker 1 (pid: 13199, cores: 1)
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+worker 1 buried after 0 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Apr  5 10:42:05 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-91-generic #92-Ubuntu SMP Fri Feb 28 11:09:48 UTC 2020
+nodename: ankesh.cf
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Nov  7 2019, 10:44:02)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56310afd9910
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: command ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x56310afd9910 pid: 13268 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 13268)
+spawned uWSGI worker 1 (pid: 13270, cores: 1)
+worker 1 buried after 0 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Apr  5 10:43:53 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-91-generic #92-Ubuntu SMP Fri Feb 28 11:09:48 UTC 2020
+nodename: ankesh.cf
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Nov  7 2019, 10:44:02)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55b26b22ef60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55b26b22ef60 pid: 14076 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 14076)
+spawned uWSGI worker 1 (pid: 14094, cores: 1)
+spawned uWSGI worker 2 (pid: 14095, cores: 1)
+[pid: 14095|app: 0|req: 1/1] 103.5.135.109 () {52 vars in 918 bytes} [Sun Apr  5 10:44:32 2020] GET /ccgen => generated 5697 bytes in 43 msecs (HTTP/2.0 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 14094|app: 0|req: 1/2] 103.5.135.109 () {48 vars in 785 bytes} [Sun Apr  5 10:44:33 2020] GET /ccgen_files/js/small.js => generated 232 bytes in 20 msecs (HTTP/2.0 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 14095|app: 0|req: 2/3] 103.5.135.109 () {50 vars in 887 bytes} [Sun Apr  5 14:12:12 2020] GET /ccgen => generated 5697 bytes in 44 msecs (HTTP/2.0 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 14094|app: 0|req: 2/4] 103.5.135.109 () {48 vars in 785 bytes} [Sun Apr  5 14:12:12 2020] GET /ccgen_files/js/small.js => generated 232 bytes in 7 msecs (HTTP/2.0 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Apr 10 09:27:56 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-96-generic #97-Ubuntu SMP Wed Apr 1 03:25:46 UTC 2020
+nodename: ankesh.cf
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Nov  7 2019, 10:44:02)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55fe78a15f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 3 seconds on interpreter 0x55fe78a15f50 pid: 921 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 921)
+spawned uWSGI worker 1 (pid: 1269, cores: 1)
+spawned uWSGI worker 2 (pid: 1270, cores: 1)
+[pid: 1269|app: 0|req: 1/1] 209.160.121.238 () {46 vars in 810 bytes} [Fri Apr 10 10:58:17 2020] GET /ccgen => generated 5697 bytes in 58 msecs (HTTP/2.0 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 1270|app: 0|req: 1/2] 209.160.121.238 () {46 vars in 739 bytes} [Fri Apr 10 10:58:19 2020] GET /ccgen_files/js/small.js => generated 232 bytes in 30 msecs (HTTP/2.0 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Apr 21 18:30:49 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-96-generic #97-Ubuntu SMP Wed Apr 1 03:25:46 UTC 2020
+nodename: ankesh.cf
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Nov  7 2019, 10:44:02)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55fdba7b3f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 6 seconds on interpreter 0x55fdba7b3f50 pid: 959 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 959)
+spawned uWSGI worker 1 (pid: 1550, cores: 1)
+spawned uWSGI worker 2 (pid: 1551, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Apr 21 18:37:50 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-96-generic #97-Ubuntu SMP Wed Apr 1 03:25:46 UTC 2020
+nodename: ankesh.cf
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Nov  7 2019, 10:44:02)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5605740d7f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5605740d7f50 pid: 5763 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 5763)
+spawned uWSGI worker 1 (pid: 5782, cores: 1)
+spawned uWSGI worker 2 (pid: 5783, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Apr 21 18:38:44 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-96-generic #97-Ubuntu SMP Wed Apr 1 03:25:46 UTC 2020
+nodename: ankesh.cf
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Nov  7 2019, 10:44:02)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55ba53dbbf50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55ba53dbbf50 pid: 6187 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6187)
+spawned uWSGI worker 1 (pid: 6205, cores: 1)
+spawned uWSGI worker 2 (pid: 6206, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Wed May  6 08:41:32 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-99-generic #100-Ubuntu SMP Wed Apr 22 20:32:56 UTC 2020
+nodename: ankesh.ga
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Apr 18 2020, 01:56:04)  [GCC 8.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x564a20ca2f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 5 seconds on interpreter 0x564a20ca2f50 pid: 880 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 880)
+spawned uWSGI worker 1 (pid: 1364, cores: 1)
+spawned uWSGI worker 2 (pid: 1365, cores: 1)
+[pid: 1365|app: 0|req: 1/1] 103.5.135.109 () {50 vars in 922 bytes} [Fri May 22 13:04:07 2020] GET /ccgen => generated 5697 bytes in 400 msecs (HTTP/2.0 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 1364|app: 0|req: 1/2] 103.5.135.109 () {48 vars in 820 bytes} [Fri May 22 13:04:08 2020] GET /ccgen_files/js/small.js => generated 232 bytes in 82 msecs (HTTP/2.0 404) 2 headers in 72 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket OpenSource-CCGen.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Jun  1 05:17:06 2020] ***
+compiled with version: 7.3.0 on 28 April 2019 14:10:35
+os: Linux-4.15.0-101-generic #102-Ubuntu SMP Mon May 11 10:07:26 UTC 2020
+nodename: ankesh.ga
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/ubuntu/hosted/OpenSource-CCGen
+detected binary path: /home/ubuntu/.local/bin/uwsgi
+your processes number limit is 3838
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address OpenSource-CCGen.sock fd 3
+Python version: 3.6.9 (default, Apr 18 2020, 01:56:04)  [GCC 8.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55db3c3e7f50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 4 seconds on interpreter 0x55db3c3e7f50 pid: 935 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 935)
+spawned uWSGI worker 1 (pid: 1229, cores: 1)
+spawned uWSGI worker 2 (pid: 1235, cores: 1)
+[pid: 1229|app: 0|req: 1/1] 103.5.135.109 () {50 vars in 889 bytes} [Mon Jun  1 05:19:27 2020] GET /ccgen => generated 5697 bytes in 147 msecs (HTTP/2.0 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 1235|app: 0|req: 1/2] 103.5.135.109 () {48 vars in 787 bytes} [Mon Jun  1 05:19:27 2020] GET /ccgen_files/js/small.js => generated 232 bytes in 44 msecs (HTTP/2.0 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 1229|app: 0|req: 2/3] 103.5.135.109 () {50 vars in 889 bytes} [Tue Jun  2 16:38:45 2020] GET /ccgen => generated 5697 bytes in 155 msecs (HTTP/2.0 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 1235|app: 0|req: 2/4] 103.5.135.109 () {48 vars in 787 bytes} [Tue Jun  2 16:38:46 2020] GET /ccgen_files/js/small.js => generated 232 bytes in 90 msecs (HTTP/2.0 404) 2 headers in 72 bytes (1 switches on core 0)

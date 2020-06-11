@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <title>OpenSource-CCGen</title>
-   <link rel="shortcut icon" href="/ccgen_files/img/favicon.png">
-   <link rel="stylesheet" type="text/css" href="./ccgen_files/css/ccgen_style.css">
-   <link href="./ccgen_files/css/geosans.css" rel="stylesheet" type="text/css">
-   <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
-   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+   <title>CCGen</title>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/ccgen_style.css') }}">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/geosans.css') }}">
+    <script type="text/javascript"  src="{{ url_for('static',filename='js/jquery-1.11.2.min.js') }}"></script>
+    <script type="text/javascript"  src="{{ url_for('static',filename='js/small.js') }}"></script>
 </head>
 
 <body onload="ccgen();">
   <header>
      <section class="header-title"><a target="_blank" href="https://github.com/JohnGLFour/OpenSource-CCGen" title="Find source code on GitHub!"><i class="fa fa-github" aria-hidden="true"></i> Source Code</a></section>
-     <section class="title"><img src="./ccgen_files/img/favicon.png" alt="NamsoCCGen"> OpenSource-CCGen</section>
+     <section class="title"><img src="{{url_for('static',filename="img/favicon.png")}}"> PersonalCCGen</section>
    </header>
     
    <div align="center">
@@ -101,9 +100,7 @@
     })();
   </script>
 </footer>
-
-	<script type="text/javascript" src="./ccgen_files/js/jquery-1.11.2.min.js"></script>
-	<script type="text/javascript" src="./ccgen_files/js/ccgen_eng.js"></script>
+	<script type="text/javascript" src="{{ url_for('static',filename="js/ccgen_eng.js") }}"> </script>
 
 <script>
 /***
